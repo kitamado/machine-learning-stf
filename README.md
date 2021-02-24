@@ -1,16 +1,13 @@
 # machine-learning-stf
 Andrew Ng's coursera ML course
 
-Lab complted with MATLAB Online R2020b
-
-
 
 - **Structure**
 
 ```
 ├── README.md
-├── lab
-│   ├── README.mlx
+├── lab                                                                 # New version Lab 
+│   ├── README.mlx                                                      # Complted with MATLAB Online R2020b
 │   ├── ex1
 │   ├── ex2
 │   ├── ex3
@@ -19,8 +16,8 @@ Lab complted with MATLAB Online R2020b
 │   ├── ex6
 │   ├── ex7
 │   └── ex8
-├── resource
-│   ├── ex1.pdf
+├── resource                                                            # This are readonly files. 
+│   ├── ex1.pdf                                                         # lab instructions, same as *.mlx files in /lab/ex[\d]
 │   ├── ex2.pdf
 │   ├── ex3.pdf
 │   ├── ex4.pdf
@@ -28,12 +25,12 @@ Lab complted with MATLAB Online R2020b
 │   ├── ex6.pdf
 │   ├── ex7.pdf
 │   ├── ex8.pdf
-│   ├── matlab-online-ver-ex.zip
-│   └── octave-ver-lab
+│   ├── matlab-online-ver-ex.zip                                        # original MATLAB ex file
+│   └── octave-ver-lab                                                  # Old version octave lab, I didn't do this part
 └── slides
     ├── ML_Lecture1.pdf
     ├── ML_Lecture10.pdf
-    ├── ML_Lecture11.pdf
+    ├── ML_Lecture11.pdf                                                # course slides here
     ├── ML_Lecture12.pdf
     ├── ML_Lecture13.pdf
     ├── ML_Lecture14.pdf
